@@ -1,0 +1,10 @@
+*.ccache
+*.zip
+*.exe
+*.dll
+*.paf.exe
+*.config
+*.bat
+nmap/
+logging/
+htb_academy/

@@ -7,6 +7,8 @@ A collection of HackTheBox machine writeups documenting attack chains, tooling, 
 | Machine | OS | Difficulty | Category |
 |---|---|---|---|
 | [Support](support/README.md) | Windows | Easy | Active Directory |
+| [Snapped](snapped/README.md) | Linux | Hard | Web, Broken Authentication and Authorization |
+| [Abducted](abducted/README.md) | Linux | Medium | Common Services |
 
 ---
 

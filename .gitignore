@@ -8,3 +8,26 @@
 nmap/
 logging/
 htb_academy/
+# Backup and extracted archives
+*.bin
+backup_extracted/
+
+# Nmap output (raw)
+*.nmap
+*.gnmap
+*.xml
+
+# PoC / exploit scripts
+poc.py
+smb_print_exp.py
+*.py
+
+# Cracking artifacts
+hash
+hash2
+pass
+
+# Misc
+*.txt
+!README.md
+assets/
